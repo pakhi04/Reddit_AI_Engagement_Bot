@@ -1,1 +1,1 @@
-##Reddit AI Engagement Bot
+Reddit AI Engagement Bot
